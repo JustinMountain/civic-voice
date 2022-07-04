@@ -1,0 +1,2 @@
+# ignore __pycache__ for crawlers
+/crawlers/__pycache__
